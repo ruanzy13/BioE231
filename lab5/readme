@@ -1,0 +1,9 @@
+### This is a Markdown file to explain anything involved in the code which is written for lab 5
+_Will the AND-1 riboswitch cleave itself when both of its OBS are bound?_ 
+Yes, it will. For AND logic function,it is only active when receiving two separate molecular impulse, in this case, two separate DNA oligonucleotides.
+
+_Will the OR-1 riboswitch cleave itself when neither of its OBS are bound?_
+As a rule, it won't. And from the result of the experiment, it actually showed little self-cleavage in the absence of effector DNAs as predicted.
+
+_What behavior do we expect from the YES-1 riboswitch?_
+YES-1 is predicted to form the desired OFF- and ON-state strctures in the absence and presence, respectively, of a 22-nt effector DNA.
